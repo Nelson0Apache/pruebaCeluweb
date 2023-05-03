@@ -1,0 +1,1736 @@
+[
+    {
+        "Apartado": {
+            "nombres": "Drog. Cafam Apartado Exi.",
+            "direcciones": "Carrera  100  Calle  103  Nº  101  -  45 Antioquia"
+        }
+    },
+    {
+        "Armenia": {
+            "nombres": "Drog. Cafam Armenia Exi. Unicentro",
+            "direcciones": "Avenida Bolivar Carrera 14 Nº 14 - 34 C.C. Unicentro Quindio"
+        }
+    },
+    {
+        "Buenaventura": {
+            "nombres": "Punto Disp. Cafam Buenaventura",
+            "direcciones": "Cra 3B # 8-47 Valle del Cauca"
+        }
+    },
+    {
+        "Barrancabermeja": {
+            "nombres": "Drog. Cafam B/bermeja Exi.",
+            "direcciones": "C.C. Iwaná Calle 50 Entre Carrera 10 Y 11 Local 101 Santander"
+        }
+    },
+    {
+        "Barranquilla": {
+            "nombres": "Drog. Cafam B/quilla Car. Villa Country",
+            "direcciones": "Calle 78 Nº 53 - 70 Atlántico"
+        }
+    },
+    {
+        "Barranquilla": {
+            "nombres": "Drog. Cafam B/quilla Car. Calle 86",
+            "direcciones": "Carrera 64 C No. 86 - 20 Atlántico"
+        }
+    },
+    {
+        "Barranquilla": {
+            "nombres": "Drog. Cafam B/quilla Car. Calle 82",
+            "direcciones": "Calle 82 No. 50 - 73 Atlántico"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Rincon de la Colina",
+            "direcciones": "Carrera 59 (Avenida Boyaca) # 152 B 97 Cundinamarca"
+        }
+    },
+    {
+        "Barranquilla": {
+            "nombres": "Drog. Cafam B/quilla Exi. Metropolitano",
+            "direcciones": "Avenida Circunvalar Con Calle Murillo Atlántico"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Country",
+            "direcciones": "Calle 85 # 15 -29 Cundinamarca"
+        }
+    },
+    {
+        "Barranquilla": {
+            "nombres": "Drog. Cafam B/quilla Exi. Calle 77",
+            "direcciones": "Calle 77 Carrera 71 Esquina Atlántico"
+        }
+    },
+    {
+        "Barranquilla": {
+            "nombres": "Drog. Cafam B/quilla Exi. Murillo",
+            "direcciones": "Calle 45 Carrera 26 - 129 Esquina Atlántico"
+        }
+    },
+    {
+        "Barranquilla": {
+            "nombres": "Drog. Cafam B/quilla Exi. San Francisco",
+            "direcciones": "Calle 72 Carrera 38 Esquina Atlántico"
+        }
+    },
+    {
+        "Barranquilla": {
+            "nombres": "Drog. Cafam B/quilla Exi. Panorama",
+            "direcciones": "Calle 30 Con Carrera 8 C.C. Panorama Atlántico"
+        }
+    },
+    {
+        "Barranquilla": {
+            "nombres": "Punto Disp. Cafam Nvo Prado B/quilla",
+            "direcciones": "Carrera 53 N° 70-168. Local 102 Atlántico"
+        }
+    },
+    {
+        "Barranquilla": {
+            "nombres": "Drog. Cafam B/quilla Surt. Calle 48",
+            "direcciones": "Calle 47 No. 43-57 Atlántico"
+        }
+    },
+    {
+        "Barranquilla": {
+            "nombres": "Drog. Cafam Barranquilla San Vicente",
+            "direcciones": "Cll 86 # 50-66 Atlántico"
+        }
+    },
+    {
+        "Bello": {
+            "nombres": "Drog. Cafam Bello Exi.",
+            "direcciones": "Diagonal 51 Nº 35 - 120 Éxito Bello Antioquia"
+        }
+    },
+    {
+        "Bello": {
+            "nombres": "Drog. Cafam Bello Exi. Centro",
+            "direcciones": "Carrera 49 # 50-12 Centro Comercial Bello Centro Local 120 Antioquia"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. El Retiro (Calle 85)",
+            "direcciones": "Calle 85 Nº 9 - 67 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Éxito El Ensueño",
+            "direcciones": "Carrera 51 # 59C Sur 93 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. La Carolina",
+            "direcciones": "Avenida Calle 127 Nº 14A - 30 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Villa del Prado",
+            "direcciones": "Carrera 52 A # 170 - 75 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Pasadena",
+            "direcciones": "Carrera 53 Nº 102A - 77 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Exp. Colina Campestre",
+            "direcciones": "Carrera 59A Nº 136 - 95 Carulla Local 27B Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Calle 102",
+            "direcciones": "Avenida 19 Nº 101 - 66 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Granada Hills",
+            "direcciones": "Avenida 45 Nº 146 - 48 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Niza",
+            "direcciones": "Avenida Calle 127 # 60-26 LOCAL 30 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Santa Barbara",
+            "direcciones": "Calle 125 BIS # 20-23 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Pepe Sierra",
+            "direcciones": "Carrera 15 # 114 A-33 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Alhambra",
+            "direcciones": "Calle 114 A # 45-78 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Chico",
+            "direcciones": "Calle 92 # 15-34 Cundinamarca"
+        }
+    },
+    {
+        "Chia": {
+            "nombres": "Drog. Cafam Chia Car. Centro Chia",
+            "direcciones": "Avenida Pradilla 900 Este Local 1029-1026 Carulla C.C Centro Chia Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Calle 100",
+            "direcciones": "Calle 98 # 17 A 31 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Calle 147",
+            "direcciones": "Calle 147 # 7 - 92 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Calle 140",
+            "direcciones": "Carrera 11 # 140 - 29 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Cedro Bolivar",
+            "direcciones": "Carrera 17 # 151 - 44 Cundinamarca"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Car. Oviedo",
+            "direcciones": "Carrera 43 A N° 6 sur 145 Antioquia"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Rosales",
+            "direcciones": "Carrera 5 # 72-35 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Galerias",
+            "direcciones": "Calle 53 # 26 - 60 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Calle 63",
+            "direcciones": "Calle 63 # 7-09 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Pablo VI",
+            "direcciones": "Carrera 50 C # 53-50 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. La Soledad",
+            "direcciones": "Carrera 24 # 41-33 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Quinta Camacho",
+            "direcciones": "Carrera 10A # 70-37 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Colina",
+            "direcciones": "Calle 138 # 55 - 27 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Calle 47",
+            "direcciones": "Calle 47 # 9-10 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Polo Club",
+            "direcciones": "Ak. 24 #86A-45 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Autopista 184",
+            "direcciones": "Avenida 13 (Auto Norte) # 183 - 86 Local 1 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Paseo Real",
+            "direcciones": "Calle 121 # 6-46 LOCAL 260 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. San Nicolas",
+            "direcciones": "Avenida Calle 116 # 70F-43 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. Cortijo",
+            "direcciones": "Carrera 116 A # 82-16 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog.Car.Calle 116",
+            "direcciones": "AK 45 N° 116 - 34 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drogueria Cafam Multicanal Floresta",
+            "direcciones": "Avenida Carrera 68 Nº 90 - 88 C.C. Floresta Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Calle 51 Exi. Bog.",
+            "direcciones": "Carrera 15 Nº 51 - 45 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. 20 de Julio",
+            "direcciones": "Calle 21 Sur Nº 5A - 34 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Quirinal",
+            "direcciones": "CALLE 60 56 A 40 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Quirigua",
+            "direcciones": "Diagonal 94 Nº 82 - 00 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Modelia",
+            "direcciones": "Carrera 75 Nº 23F - 30 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Centenario",
+            "direcciones": "Calle 27 Sur Nº 26 - 24 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Restrepo",
+            "direcciones": "Carrera 20 Nº 14 - 17 Sur Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Punto de Dispensación Cafam Nuevo Kennedy",
+            "direcciones": "Carrera 78K Nº 37A - 53 Sur Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Tintal",
+            "direcciones": "Calle 6A Nº 95 - 75 EXI C.C. Tintal Plaza Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. San Martin",
+            "direcciones": "Carrera 7A Nº 32 - 16 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Villa Mayor",
+            "direcciones": "Autopista Sur Calle 38A Sur - 07 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Americas",
+            "direcciones": "Avenida Americas Nº 68A - 94 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Calle 80",
+            "direcciones": "Carrera 59A Nº 79 - 30 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Fontibon",
+            "direcciones": "Avenida Centenario Nº 106 - 104 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Occidente",
+            "direcciones": "Carrera 114 Nº 78B - 85 Villas De Granada Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Suba",
+            "direcciones": "Calle 145 Nº 105B - 58 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Chapinero",
+            "direcciones": "Calle 52 Nº 13 - 70 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Usme",
+            "direcciones": "Carrera 1 Nº 65D Sur –58 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Tunal",
+            "direcciones": "Calle 47B Sur Nº 24B - 33 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Unicentro",
+            "direcciones": "Carrera 15 Nº 123 - 30 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Salitre",
+            "direcciones": "Carrera 68B Nº 24 - 39 Local 148 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Alamos",
+            "direcciones": "Transversal 99 Nº 70A - 89 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Gran Estacion",
+            "direcciones": "Avenida Esperanza Nº 62 - 49 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Bosa",
+            "direcciones": "Calle 65 Sur Nº 78H - 54 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Esperanza",
+            "direcciones": "Carrera 72 A No. 23-83 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Ciudad Jardin",
+            "direcciones": "Carrera 13 No. 16 - 48 Sur Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. S/mayorista Castilla",
+            "direcciones": "Carrera 77 No. 8A - 95 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Lisboa",
+            "direcciones": "Carrera 10  Nº 134 - 18 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Colseguros",
+            "direcciones": "Calle 17 Nº 9 - 81 Local 206 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Floresta",
+            "direcciones": "Avenida Carrera 68 Nº 90 - 88 C.C. Floresta Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Palermo",
+            "direcciones": "Carrera 22 Nº 45C - 34 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Trinidad Galán Bog.",
+            "direcciones": "Carrera 56 Nº 4 - 53 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Punto Disp. Cafam El Lago.",
+            "direcciones": "Carrera 15 Nº 76 - 64 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Punto Disp. Cafam Ciudad Bolivar Bog.",
+            "direcciones": "Carrera 51 #59c Sur-93 a, Cl. 59c Sur #99,  local 240 C.C Gran plaza el ensueño Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Usaquen",
+            "direcciones": "Carrera 7 Nº 119 - 14 Local 104 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Las Nieves",
+            "direcciones": "Carrera 7 Nº 19 - 59 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Floresta 24 Horas Bog.",
+            "direcciones": "Avenida Carrera 68 Nº 90 - 88 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Multicanal calle 48",
+            "direcciones": "Carrera 13 Nº 48 - 47 Local 2 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam. Bog Unicentro",
+            "direcciones": "Carrera 13 con Calle 124 Centro Comercial Unicentro Local 268 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Santa Ana Medical Center",
+            "direcciones": "Calle 119 N° 7-14 Edificio Medical Center Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Punto Disp. Cafam Suba Fiesta Bog.",
+            "direcciones": "Carrera 101 N° 147-21 Local 331 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Punto Disp. Cafam Primavera Bog.",
+            "direcciones": "Cll 80 Nº 89A - 40 C.C. Plaza Primavera Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Punto Disp. Cafam Centenario Bog.",
+            "direcciones": "Calle 27 Sur Nº  26 - 24 Local 2 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Punto Disp. Cafam Calle 48 Bog.",
+            "direcciones": "Carrera 13 Nº 48 - 47 Local 1 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Punto Disp Cafam Calle 51",
+            "direcciones": "Carrera 15 Nº 51 - 45 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Punto Disp. Cafam Floresta",
+            "direcciones": "Avenida Carrera 68 Nº 90 - 88 C.C. Floresta Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Punto Disp. Cafam Barrios Unidos Bog.",
+            "direcciones": "Carrera 52 No. 65- 47 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Punto Disp. Cafam Restrepo Bog.",
+            "direcciones": "Calle 22 Sur Nº 13 -31 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Surt. Fontibon",
+            "direcciones": "Carrera 99 Nº 18A - 25 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Surt. Ciudadela",
+            "direcciones": "Transversal 114 Nº 142A - 98 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Centro Distribución Medicamentos Bogotá",
+            "direcciones": "Autopista Bogotá Medellín Kilómetro 7.5 Siberia Parque Industrial Celta Bodega 131-16 Tade Park 1 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Plaza Central",
+            "direcciones": "Avenida Calle 13 con Carrera 62-65, CC Plaza Central, Local 1-112 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. City U",
+            "direcciones": "Calle 19 N 2 A -10 local 111 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Mall Plaza",
+            "direcciones": "Avenida Carrera 30 # 19 Piso 1 Éxito Centro Comercial Calima Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. La Felicidad",
+            "direcciones": "Avenida Calle 13 No.72-16 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Droguería Cafam Bog. Car.110",
+            "direcciones": "Calle 110 # 9B-80 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Plus 127",
+            "direcciones": "Avenida Calle 127 N° 20-16 Barrio La Calleja Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Zarzamora",
+            "direcciones": "Avenida Calle 72 Nº 90 - 61 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drogueria Cafam Multicanal Lago",
+            "direcciones": "Carrera 15 Nº 76 - 64 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drogueria Cafam Multicanal Centro Mayor",
+            "direcciones": "Calle 38A Sur N° 34D-51 Loc. 2-008 C.C Centro Mayor Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drogueria Cafam Multicanal Pepe Sierra",
+            "direcciones": "CALLE 116 # 45 - 68 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Nuevo Kennedy",
+            "direcciones": "Carrera  78K  Nº  37A  -  53  Sur  Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Droguería Cafam Bogotá Alkosto Av. 68",
+            "direcciones": "Kr 68    Av. 68 #72-43, Bogotá Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Droguería Cafam Bogotá Alkosto Car. 30",
+            "direcciones": "Kr 30    Carrera 30 # 10-21 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drogueria Cafam Multicanal Norte",
+            "direcciones": "CALLE 161 21 -38 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bogota La Castellana",
+            "direcciones": "Cr 47 A N° 99-65 al lado de Olimpica Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drogueria Cafam Multicanal Engativa",
+            "direcciones": "CARRERA 110 72 - 25 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Car. San Rafael",
+            "direcciones": "Calle 134 Nº 55 - 30 Local 105 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Country",
+            "direcciones": "Calle 134 Nº 9 - 51 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Colina",
+            "direcciones": "Avenida Carrera 72 Calle 146 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Norte",
+            "direcciones": "Calle 175 Nº 22 - 13 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drogueria Cafam Multicanal Suba",
+            "direcciones": "Calle 150 A N°103C-86 Cundinamarca"
+        }
+    },
+    {
+        "Bojaca": {
+            "nombres": "Punto Disp. Cafam Bojaca",
+            "direcciones": "Carrera 7 Nº 6 - 75 Bojaca Cundinamarca"
+        }
+    },
+    {
+        "Bucaramanga": {
+            "nombres": "Drog. Cafam B/manga Exi. La Rosita",
+            "direcciones": "Carrera 17 Nº 45 - 56 Santander"
+        }
+    },
+    {
+        "Bucaramanga": {
+            "nombres": "Drog. Cafam B/manga Exi. Cabecera",
+            "direcciones": "Carrera 35A Nº 49 - 27 Santander"
+        }
+    },
+    {
+        "Bucaramanga": {
+            "nombres": "Drog. Cafam B/manga Exi. Oriental",
+            "direcciones": "Transversal Oriental Nº 92 - 218 Santander"
+        }
+    },
+    {
+        "Bucaramanga": {
+            "nombres": "Drog. Cafam. B/Manga Acropolis",
+            "direcciones": "Avenida Samanes No. 9 - 140 Local 180 Centro Comercial Acropolis (Av.Samanes #9 Local 180) Santander"
+        }
+    },
+    {
+        "Buenaventura": {
+            "nombres": "Drog. Cafam B/ventura Exi.",
+            "direcciones": "Calle E2 Nº 66 - 86 Kilometro 11 Antes De Carretera De Cabal Pombo Valle del Cauca"
+        }
+    },
+    {
+        "Cajica": {
+            "nombres": "Punto Disp. Cafam Cajica.",
+            "direcciones": "Carrera 4 Nº 0 - 95 Cundinamarca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam Cali Car. Ciudad Jardin",
+            "direcciones": "Calle 13 Nº 103 - 95 Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Punto Dispensacion Cafam Cali 1",
+            "direcciones": "Calle 5 número 6-63 Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam Cali Car. San Fernando",
+            "direcciones": "Calle 4B # 34-04 Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam Cali Car. Trade Center",
+            "direcciones": "Carrera 100 # 6-60 Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam Cali Car. Avenida Colombia",
+            "direcciones": "Avenida Colombia N° 1-50 Edificio Centro Convenciones Alférez Real Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam Cali Exi. San Fernando",
+            "direcciones": "Calle 5A Nº 38D - 35 Valle del Cauca"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Clinica Americas 70",
+            "direcciones": "Diagonal 70 No. 1-135 Antioquia"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam Cali Car. Pance",
+            "direcciones": "Calle 18 via cañas gorda #121-451 Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam Cali Exi. Chipichape",
+            "direcciones": "Avenida 6A Norte Nº 35 - 47 Local 519 Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam Cali Exi. Palmetto",
+            "direcciones": "Carrera 9 B Nº 49-50 loc 108 Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam Cali Exi. Simon Bolivar",
+            "direcciones": "Calle 70 Nº 28D - 20 Barrio Julio Rincon               Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam Cali Super In. Acopi",
+            "direcciones": "Carrera 11 A # 39-78 Urbanización Acopi Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam Cali Super In. Outlet la 80",
+            "direcciones": "Carrera 80 # 13 - 261 Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam. Cali Imbanaco",
+            "direcciones": "Calle 5A 38D 35 Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Droguería Cafam Cali Alkosto Calle 13",
+            "direcciones": "Calle 13 #80-187, Cali, Valle del Cauca Valle del Cauca"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Exi. Poblado",
+            "direcciones": "Calle 10 Nº 43E - 135 Antioquia"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Punto Disp. Cafam CFV Norte Cali",
+            "direcciones": "AV 3 Norte 40N 121 Barrio La Merced Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Punto Disp. Cafam CFV Nueva Base Cali",
+            "direcciones": "CRA. 8 No. 52 – 146 Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Punto Disp. Cafam CFV Sur Cali",
+            "direcciones": "Carrera 64 N° 13-12  Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Punto Disp. Cafam CFV Rio Cauca Cali",
+            "direcciones": "cll 75b# 20-170 c.c rio cauca l. 64 b, valle grande Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Punto Disp. Cafam Emcali",
+            "direcciones": "Calle 5 número 6-63 Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam. Imbanaco Consultorios A y B",
+            "direcciones": "Cr 38 a N° 5a-39 Barrio San Fernando Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Punto Disp. Cafam Imbanaco Cali",
+            "direcciones": "Cr 38 a N° 5a-39 Barrio San Fernando Valle del Cauca"
+        }
+    },
+    {
+        "Caqueza": {
+            "nombres": "Drog. Cafam Caqueza",
+            "direcciones": "Calle 2 Nº 4 - 11 Cundinamarca"
+        }
+    },
+    {
+        "Cartagena": {
+            "nombres": "Drog. Cafam C/gena Car. Cast /Grande",
+            "direcciones": "Carrera 4 No 6 – 12 Bocagrande Bolívar"
+        }
+    },
+    {
+        "Cartagena": {
+            "nombres": "Drog. Cafam C/gena Car. Vil/Susana",
+            "direcciones": "Manga Calle real No. 24 A - 31 Bolívar"
+        }
+    },
+    {
+        "Cartagena": {
+            "nombres": "Drog. Cafam C/gena Car. Santa Lucia",
+            "direcciones": "Diagonal 31 No. 54 - 175 Centro Comercial Bolívar"
+        }
+    },
+    {
+        "Cartagena": {
+            "nombres": "Punto Disp. Cafam Cuatro Vientos",
+            "direcciones": "Avenida Pedro De Heredia Sector los cuatro vientos Calle 31 con carrera 50A Esquina Bolívar"
+        }
+    },
+    {
+        "Cartagena": {
+            "nombres": "Drog. Cafam C/gena Exi. Pedro Heredia",
+            "direcciones": "Avenida Pedro Heredia Calle 31 Nº 69 - 75 Sector Contadora Bolívar"
+        }
+    },
+    {
+        "Cartagena": {
+            "nombres": "Drog. Cafam C/gena Exi. Ejecutivos",
+            "direcciones": "Calle 31 Nº 57 - 106 Bolívar"
+        }
+    },
+    {
+        "Cartagena": {
+            "nombres": "Drog. Cafam C/gena Exi. San Diego",
+            "direcciones": "Calle La Serresuela Calle 38 Nº 10 - 85 Bolívar"
+        }
+    },
+    {
+        "Cartagena": {
+            "nombres": "Drog. Cafam C/gena Exi. Castellana",
+            "direcciones": "Avenida Pedro Heredia C.C. Paseo La Castellana Bolívar"
+        }
+    },
+    {
+        "Cartagena": {
+            "nombres": "Drog. Cafam C/gena Exi. Matuna",
+            "direcciones": "Avenida Venezuela Calle 35 Nº 9 - 41 Bolívar"
+        }
+    },
+    {
+        "Caucasia": {
+            "nombres": "Drog. Cafam Caucasia Exi",
+            "direcciones": "Carrera 20 Nº 28 - 12 La Troncal Antioquia"
+        }
+    },
+    {
+        "Barranquilla": {
+            "nombres": "Drog. Cafam B/quilla Exi. Cr 51",
+            "direcciones": "Carrera 51B Nº 87 - 50 Atlántico"
+        }
+    },
+    {
+        "Chia": {
+            "nombres": "Drog. Cafam Chia Exi. Fontanar",
+            "direcciones": "Kilometro2,5 vía Chía Cundinamarca"
+        }
+    },
+    {
+        "Chia": {
+            "nombres": "Drog. Cafam Chia Surt.",
+            "direcciones": "Avenida Pradilla Nº 5 - 92 Local 30 Cundinamarca"
+        }
+    },
+    {
+        "Chia": {
+            "nombres": "Punto Dispensación Cafam Chía",
+            "direcciones": "Carrera. 9 N° 16 A - 07 Cundinamarca"
+        }
+    },
+    {
+        "Cota": {
+            "nombres": "Punto Disp. Cafam Cota.",
+            "direcciones": "Diagonal 11 Nº 5 - 11 Cota Cundinamarca"
+        }
+    },
+    {
+        "Cúcuta": {
+            "nombres": "Drog. Cafam Cucuta Exi. Av. Quinta",
+            "direcciones": "Avenida 5 Calle 12 - 68 Esquina Norte de Santander"
+        }
+    },
+    {
+        "Cúcuta": {
+            "nombres": "Drog. Cafam Cucuta Exi. San Mateo",
+            "direcciones": "Avenida 1 Nº 23 - 72 Norte de Santander"
+        }
+    },
+    {
+        "Envigado": {
+            "nombres": "Drog. Cafam Envigado Exi.",
+            "direcciones": "Carrera 48 Nº 34 Sur - 28 Antioquia"
+        }
+    },
+    {
+        "Envigado": {
+            "nombres": "Drog. Cafam Envigado Exi. Centro",
+            "direcciones": "Calle 36 Nº 43 - 40 Antioquia"
+        }
+    },
+    {
+        "Facatativa": {
+            "nombres": "Drog. Cafam Facatativa Exi.",
+            "direcciones": "Carrera 5 Nº 13 - 50 Cundinamarca"
+        }
+    },
+    {
+        "Facatativa": {
+            "nombres": "Punto Disp. Cafam Faca.",
+            "direcciones": "Carrera 4 Nº 3-37 Cundinamarca"
+        }
+    },
+    {
+        "Florencia": {
+            "nombres": "Drog. Cafam Florencia Exi.",
+            "direcciones": "Carrera 3Bis Nº 21A - 14 C.C. Gran Plaza Florencia Caquetá"
+        }
+    },
+    {
+        "Florida Blanca": {
+            "nombres": "Drog. Cafam F/blanca Exi. Cañaveral",
+            "direcciones": "Kr 30 Nº 25 - 71 C.C. Cañaveral Local 100 Santander"
+        }
+    },
+    {
+        "Fusagasuga": {
+            "nombres": "Drog. Cafam Fusagasuga Exi.",
+            "direcciones": "Diagonal 18 Nº 15 - 90 C.C. Manilla Cundinamarca"
+        }
+    },
+    {
+        "Girardot": {
+            "nombres": "Drog. Cafam Girardot Exi.",
+            "direcciones": "Carrera 10 Nº 25 - 53 Barrio Murillo Toro Cundinamarca"
+        }
+    },
+    {
+        "Ibague": {
+            "nombres": "Drog. Cafam Ibague Exi.",
+            "direcciones": "Carrera 5 Nº 80 - 60 Avenida Jordan Tolima"
+        }
+    },
+    {
+        "Itagui": {
+            "nombres": "Drog. Cafam Itagui Exi.",
+            "direcciones": "Carrera 50A Nº 41 - 42 Antioquia"
+        }
+    },
+    {
+        "Jamundí": {
+            "nombres": "Drog. Jamundi Super In",
+            "direcciones": "Carrera 10 # 17-21 Valle del Cauca"
+        }
+    },
+    {
+        "La Ceja": {
+            "nombres": "Drog. Cafam. Éxito La Ceja",
+            "direcciones": "Carrera 13 N° 26 B -56 Antioquia"
+        }
+    },
+    {
+        "La Estrella": {
+            "nombres": "Drog. Cafam La Estrella Exi. Plaza 77",
+            "direcciones": "Carrera 50 d con Calle 77 Sur Antioquia"
+        }
+    },
+    {
+        "Llanogrande Antioquia": {
+            "nombres": "Drog. Cafam Med. Car. Llano grande",
+            "direcciones": "Centro comercial complex Llanogrande local Nº 73. Antioquia"
+        }
+    },
+    {
+        "Lorica": {
+            "nombres": "Drog. Cafam Lorica Exi",
+            "direcciones": "Carrera 21B # 17B - 72 Córdoba"
+        }
+    },
+    {
+        "Madrid": {
+            "nombres": "Punto Disp. Cafam Madrid",
+            "direcciones": "Carrera 10 No 7 - 39 Cundinamarca"
+        }
+    },
+    {
+        "Magangue": {
+            "nombres": "Drog. Cafam Magangue Exi.",
+            "direcciones": "Calle 10 Nº 10 - 201 Bolívar"
+        }
+    },
+    {
+        "Manizales": {
+            "nombres": "Drog. Cafam M/zales Car.",
+            "direcciones": "Carrera 23 # 65-11  centro comercial cable plaza Caldas"
+        }
+    },
+    {
+        "Manizales": {
+            "nombres": "Drog. Cafam M/zales Exi. Fundadores",
+            "direcciones": "C.C. Fundadores Carrera 20 Nº 34 - 18 Caldas"
+        }
+    },
+    {
+        "Manizales": {
+            "nombres": "Punto Disp. Cafam El Cable Mzales",
+            "direcciones": "Carrera. 23C No. 63 - 37 Caldas"
+        }
+    },
+    {
+        "Manizales": {
+            "nombres": "Punto Disp. Cafam Centro Manizales",
+            "direcciones": "Calle 23 N° 23 - 26 Caldas"
+        }
+    },
+    {
+        "Manizales": {
+            "nombres": "Punto Disp. Cafam San Rafael M/zales.",
+            "direcciones": "Avenida Kevin Angel N° 64 A – 80 Edificio Laureles del Río Local 101. Caldas"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med Exi. La Central",
+            "direcciones": "Avenida Ayacucho Calle 49 N° 20-90 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Car. Poblado",
+            "direcciones": "Calle 11A Nº 42 - 49 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Car. El Tesoro",
+            "direcciones": "Carrera 25 A # 1 A Sur-45 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Car. Rincon Oviedo",
+            "direcciones": "Carrera 43C Nº 6 Sur - 6 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Car. San Lucas",
+            "direcciones": "Calle 20 Sur Nº 27 - 124 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Car. Laureles",
+            "direcciones": "Circular 73B Nº 39B - 20 Antioquia"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam Cali Exi. La Flora",
+            "direcciones": "Avenida 3F Norte Nº 52 - 46 Valle del Cauca"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Car. Pinar del Rio",
+            "direcciones": "Calle 10 # 30-30 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Car. Sao Paulo",
+            "direcciones": "Carrera. 43A Nº 17 sur-38 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Car. City Plaza",
+            "direcciones": "Calle 36 D sur # 27A-105 local 9802 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Car. Palmas",
+            "direcciones": "Calle 18 N° 35-69 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Exi. Del Este",
+            "direcciones": "Carrera 25 Nº 3 - 01 Mall Del Este Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Car. La Visitacion",
+            "direcciones": "Carrera 32 Nº 2 sur- 55 Antioquia"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam Cali Exi. Unicentro",
+            "direcciones": "Carrera 100 Nº 5 - 169 Local 244 Valle del Cauca"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Exi. Laureles",
+            "direcciones": "Carrera 81 Nº 37 - 100 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Exi. Colombia",
+            "direcciones": "Carrera 66 Nº 49 - 01 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Exi. San Antonio",
+            "direcciones": "Calle 48 Nº 46 - 115 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Exi. Robledo",
+            "direcciones": "Carrera 80 Nº 64 - 61 Antioquia"
+        }
+    },
+    {
+        "Barranquilla": {
+            "nombres": "Drog. Cafam B/quilla Exi. Buenavista",
+            "direcciones": "Carrera 53 Nº 98 - 99 Esquina Atlántico"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Exi. La 33",
+            "direcciones": "Carrera 66B Nº 32D - 36 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Exi. Molinos",
+            "direcciones": "Calle 30A Nº 82A - 26 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Exi. Belen",
+            "direcciones": "Carrera 77 Nº 28 - 124 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Exi. San Diego",
+            "direcciones": "Calle 34 Nº 43 - 66 Local 175 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Exi. Mayorca",
+            "direcciones": "Calle 51 Sur # 48 - 57 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Exi. Unicentro",
+            "direcciones": "Carrera 66A Nº 34A - 25 Local 39 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. San Fernando Plaza",
+            "direcciones": "Carrera 42 A N° 1-95 Local 95 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Clinica Americas 80",
+            "direcciones": "Diagonal 75B No. 2ª 80-140 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Exi. La 70",
+            "direcciones": "Carrera 70 N° 43-31 Antioquia"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med. Exi. Ciudad del Rio",
+            "direcciones": "Carrera 44 # 19 - 36 Antioquia"
+        }
+    },
+    {
+        "Melgar": {
+            "nombres": "Drog. Cafam Melgar Exi.",
+            "direcciones": "Calle 8 Carrera 15 Centro Vacaciones Cafam Tolima"
+        }
+    },
+    {
+        "Monteria": {
+            "nombres": "Drog. Cafam Monteria Exi. Norte",
+            "direcciones": "Carrera 6A Nº 62 - 21 Córdoba"
+        }
+    },
+    {
+        "Monteria": {
+            "nombres": "Drog. Cafam Monteria Exi. Alamedas",
+            "direcciones": "Calle 48 Con Carrera 13 Y 14 Córdoba"
+        }
+    },
+    {
+        "Mosquera": {
+            "nombres": "Drog. Cafam Mosquera Exi.",
+            "direcciones": "Carrera 3 No. 15A - 57 Local 102. Centro Comercial Ecoplaza. Mosquera - Cundinamarca Cundinamarca"
+        }
+    },
+    {
+        "Neiva": {
+            "nombres": "Drog. Cafam Neiva Exi. San Pedro",
+            "direcciones": "Avenida 26 Con Calle 39 Huila"
+        }
+    },
+    {
+        "Palmira": {
+            "nombres": "Punto Disp. Cafam Palmira",
+            "direcciones": "Calle 29 N° 29-40 Valle del Cauca"
+        }
+    },
+    {
+        "Pasto": {
+            "nombres": "Drog. Cafam Pasto Exi.",
+            "direcciones": "Carrera 22D Nº 2 - 56 Avenida Panamerica Nariño"
+        }
+    },
+    {
+        "Pereira": {
+            "nombres": "Drog. Cafam Pereira Car. Pinares",
+            "direcciones": "Carrera 17 Entre Calles 9 y 10 N° 9-47 Risaralda"
+        }
+    },
+    {
+        "Pereira": {
+            "nombres": "Drog. Cafam Pereira Car. Cerritos",
+            "direcciones": "Kilometro5 Costado Norte Via Pereira Cerritos Sector Oasis Risaralda"
+        }
+    },
+    {
+        "Pereira": {
+            "nombres": "Drog. Cafam Pereira Exi. Victoria",
+            "direcciones": "Carrera 10 Nº 14 - 71 Risaralda"
+        }
+    },
+    {
+        "Pereira": {
+            "nombres": "Drog. Cafam Pereira Exi. Arboleda",
+            "direcciones": "Avenida Circunvalar Nº 5 - 20 C.C. Parque Arboleda Local 108 Risaralda"
+        }
+    },
+    {
+        "Pereira": {
+            "nombres": "Drog. Cafam Pereira Comfamiliar",
+            "direcciones": "Avenida Circunvalar N° 3-01 Risaralda"
+        }
+    },
+    {
+        "Pitalito": {
+            "nombres": "Drog. Cafam Pitalito Exi.",
+            "direcciones": "Carrera 15 Nº 19A - 01 Barrio Solarte Huila"
+        }
+    },
+    {
+        "Popayan": {
+            "nombres": "Drog. Cafam Popayan Exi.",
+            "direcciones": "Carrera 9 Nº 6N - 03 Cauca"
+        }
+    },
+    {
+        "Ricaurte": {
+            "nombres": "Drog. Cafam Ricaurte Car. Peñalisa",
+            "direcciones": "Kilometro 5 Via Girardot - Agua de Dios Cundinamarca"
+        }
+    },
+    {
+        "Riohacha": {
+            "nombres": "Drog. Cafam Riohacha Exi.",
+            "direcciones": "Calle 15 con Carrera 21 Guajira"
+        }
+    },
+    {
+        "Rionegro": {
+            "nombres": "Drog. Cafam Rionegro Exi.",
+            "direcciones": "Calle 43 Avenida Galan Con Carrera 56 Local 108 C.C. San Nicolas Antioquia"
+        }
+    },
+    {
+        "Rosal": {
+            "nombres": "Punto Disp. Cafam El Rosal.",
+            "direcciones": "Carrera 8 Nº 11 - 07 Barrio San Carlos El Rosal Cundinamarca"
+        }
+    },
+    {
+        "Sabaneta": {
+            "nombres": "Drog. Cafam Sabaneta Exi.",
+            "direcciones": "Calle 74A Sur Carrera 44 - 11 Antioquia"
+        }
+    },
+    {
+        "San Jeronimo": {
+            "nombres": "Drog. Cafam San Jeronimo Exi.",
+            "direcciones": "Carrera 12Aa Nº 22 - 13 Barrio La Playa Antioquia"
+        }
+    },
+    {
+        "Santa Marta": {
+            "nombres": "Drog. Cafam S/Marta Car. Arrecife",
+            "direcciones": "Carreraa 4ª. Calle 11B - Centro Comercial Arrecife - Rodadero Magdalena"
+        }
+    },
+    {
+        "Santa Marta": {
+            "nombres": "Drog. Cafam S/Marta Exi. Centro",
+            "direcciones": "Carrera 5A Nº 19 - 20 Magdalena"
+        }
+    },
+    {
+        "Santa Marta": {
+            "nombres": "Drog. Cafam S/Marta Exi. Libertador",
+            "direcciones": "Avenida Libertador Carrera 20 Esquina Magdalena"
+        }
+    },
+    {
+        "Santa Marta": {
+            "nombres": "Drog. Cafam S/Marta Exi. Buenavista",
+            "direcciones": "Avenida Libertador Parque Trupillos, Calle 32 # 29 A 500 Magdalena"
+        }
+    },
+    {
+        "Sincelejo": {
+            "nombres": "Drog. Cafam Sincelejo Exi.",
+            "direcciones": "Carrera 25 Nº 23 - 49 Sucre"
+        }
+    },
+    {
+        "Soacha": {
+            "nombres": "Drog. Cafam Soacha Unisur",
+            "direcciones": "Carrera 3 N° 29A - 02 Loc. 1041 CC Unisur P.H Cundinamarca"
+        }
+    },
+    {
+        "Soledad Atlantico": {
+            "nombres": "Drog. Cafam Soledad Exi.",
+            "direcciones": "Calle 32 Nº 30 - 15 Soledad Atlántico Atlántico"
+        }
+    },
+    {
+        "Sopo": {
+            "nombres": "Punto Disp. Cafam Sopo.",
+            "direcciones": "Carrera 2 Nº 3 - 57 Sopo Cundinamarca Cundinamarca"
+        }
+    },
+    {
+        "Tocancipa": {
+            "nombres": "Drog. Cafam Tocancipa",
+            "direcciones": "Calle 11 Nº 4 - 58 Cundinamarca"
+        }
+    },
+    {
+        "Tuluá": {
+            "nombres": "Drog. Cafam Tulua Exi. La Herradura",
+            "direcciones": "Carrera 19 N° 28-76 Local A01 Valle del Cauca"
+        }
+    },
+    {
+        "Tunja": {
+            "nombres": "Drog. Cafam Tunja C.C Viva",
+            "direcciones": "51-21, Av Universitaria, Tunja, Boyacá Boyacá"
+        }
+    },
+    {
+        "Ubate": {
+            "nombres": "Punto Disp. Cafam Ubaté",
+            "direcciones": "Carrera 4 Nº 6-45 Cundinamarca"
+        }
+    },
+    {
+        "Ubate": {
+            "nombres": "Drog. Cafam Ubate",
+            "direcciones": "Carrera 4 Nº 5 - 34 Cundinamarca"
+        }
+    },
+    {
+        "Valledupar": {
+            "nombres": "Drog. Cafam V/dupar Exi. Centro",
+            "direcciones": "Carrera 7 Nº 16A - 79 Cesar"
+        }
+    },
+    {
+        "Valledupar": {
+            "nombres": "Drog. Cafam V/dupar Exi. Las Flores",
+            "direcciones": "Calle 16 Con Carrera 19 Esquina Cesar"
+        }
+    },
+    {
+        "Valledupar": {
+            "nombres": "Punto Disp. Cafam V/dupar",
+            "direcciones": "Calle 30A No. 6A - 133 Locs. 11,12,13,14 Mayales Plaza Centro Comercial Cesar"
+        }
+    },
+    {
+        "Villavicencio": {
+            "nombres": "Drog. Cafam V/cencio Exi. Sabana",
+            "direcciones": "Calle 7A Nº 45 - 185 Meta"
+        }
+    },
+    {
+        "Villavicencio": {
+            "nombres": "Drog. Cafam V/cencio Exi. Centro",
+            "direcciones": "Calle 37B Nº 29 - 83 CENTRO EXI Meta"
+        }
+    },
+    {
+        "Villavicencio": {
+            "nombres": "Drog. Cafam V/cencio Exi. Unicentro",
+            "direcciones": "Avenida 40 Nº 33 - 00 C.C. Unicentro Meta"
+        }
+    },
+    {
+        "Yopal": {
+            "nombres": "Drog. Cafam Yopal Exi.",
+            "direcciones": "Cll 30 Nº 26 - 29 C.C. Alcaravan Casanare"
+        }
+    },
+    {
+        "Yumbo": {
+            "nombres": "Punto Disp. Cafam Yumbo",
+            "direcciones": "Cra 6 n° 6-79 Valle del Cauca"
+        }
+    },
+    {
+        "Zipaquira": {
+            "nombres": "Drog. Cafam Zipaquira Exi.",
+            "direcciones": "Calle 1A Nº 10 - 08 Local 1 Y 2 Cundinamarca"
+        }
+    },
+    {
+        "Zipaquira": {
+            "nombres": "Drog. Cafam Carrera 9 Zipa.",
+            "direcciones": "Calle 13 No 10-30 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. C.C Santafé",
+            "direcciones": "Avenida Carrera 45#185,Centro Comercial Santafé Plaza Italia Loc.160 Cundinamarca"
+        }
+    },
+    {
+        "Jamundí": {
+            "nombres": "Punto de Dispensacion Cafam Jamundi",
+            "direcciones": "Carrera 11 N° 8-42 barrio la Esmeralda Jamundí, Valle del Cauca. Locales:210,211,212. Valle del Cauca"
+        }
+    },
+    {
+        "La Ceja": {
+            "nombres": "Drog. Cafam La Ceja Cantarrana",
+            "direcciones": "Km 4 Vía La Ceja-Rionegro , Local #13 Mall Plaza Cantarrana Antioquia"
+        }
+    },
+    {
+        "Cúcuta": {
+            "nombres": "Drog Cafam Cucuta Exi Santa Ana",
+            "direcciones": "Cl. 8 #11 Este-2 a 11 Este-138 Norte de Santander"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med C.C La Florida",
+            "direcciones": "Calle 71 N° 65-150 Florida Parque Comercial local 1175 Antioquia"
+        }
+    },
+    {
+        "Barranquilla": {
+            "nombres": "Drog. Cafam B/quilla Car. Mall Plaza",
+            "direcciones": "Cl. 98 #52-115 Atlántico"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. C. C El Eden",
+            "direcciones": " Av. Boyacá #15-98 Cundinamarca"
+        }
+    },
+    {
+        "Medellín": {
+            "nombres": "Drog. Cafam Med C.C Premium Plaza",
+            "direcciones": "Calle 29 N° 43G -10 Centro Comercial Premium Plaza local 1229 Antioquia"
+        }
+    },
+    {
+        "Buenaventura": {
+            "nombres": "Drog. Cafam Comfenalco Buenaventura",
+            "direcciones": "Carrera 4 # 3-33 Piso 1 Valle del Cauca"
+        }
+    },
+    {
+        "Buga": {
+            "nombres": "Drog. Cafam Comfenalco Buga",
+            "direcciones": "Calle 7 # 11-03 esquina Piso 1 Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam Comfenalco Calle 5 Principal",
+            "direcciones": "Calle 5 # 6-63 Torre A Piso 1 Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam Comfenalco Único",
+            "direcciones": "Kr 3 # 52-28 C.C Único Outlet Local 44 Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam Comfenalco Paso Ancho",
+            "direcciones": "Avenida Paso Ancho Calle 13 N° 75-44 Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam Comfenalco Estadio",
+            "direcciones": "Calle 5 N° 34A - 14/16 Valle del Cauca"
+        }
+    },
+    {
+        "Cali": {
+            "nombres": "Drog. Cafam Comfenalco Guadalupe",
+            "direcciones": "Carrera 56 N° 13 E- 09 11 Valle del Cauca"
+        }
+    },
+    {
+        "Jamundí": {
+            "nombres": "Drog. Cafam Comfenalco Jamundi",
+            "direcciones": "Carrera 10 # 10-30 Valle del Cauca"
+        }
+    },
+    {
+        "Madrid": {
+            "nombres": "Drog. Cafam Madrid Surt.",
+            "direcciones": "Calle 7 N° 9-40 Cundinamarca"
+        }
+    },
+    {
+        "Apartado": {
+            "nombres": "Drog. Cafam Apartado Clinica Panamericana",
+            "direcciones": "Carrera 100 # 43-770 Antioquia"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Cll 94",
+            "direcciones": "Calle 94#11-13 Cundinamarca"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Clinica Santa Barbara",
+            "direcciones": "Calle 127 No. 16 A – 26 Cundinamarca"
+        }
+    },
+    {
+        "Cartagena": {
+            "nombres": "Drog. Cafam C/gena Car. Bocagrande",
+            "direcciones": "Av San Martin carrera 2 # 14 - 91 Edificio Seguros Bolivar Bolívar"
+        }
+    },
+    {
+        "Bogota": {
+            "nombres": "Drog. Cafam Bog. Exi. Nuestro Bogotá",
+            "direcciones": "AK 86 # 55A - 75 C.C nuestro bogota Cundinamarca"
+        }
+    }
+]
